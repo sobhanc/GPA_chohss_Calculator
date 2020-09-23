@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPA_chohss_Calculator</string>
+    <string name="gpa_calculator">GPA Calculator</string>
+    <string name="course_grade_1">Course Grade 1:</string>
+    <string name="course_grade_2">Course Grade 2:</string>
+    <string name="course_grade_3">Course Grade 3:</string>
+    <string name="course_grade_4">Course Grade 4:</string>
+    <string name="course_grade_5">Course Grade 5:</string>
+    <string name="compute_gpa">Compute GPA</string>
+</resources>
